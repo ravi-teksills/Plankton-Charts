@@ -1,0 +1,67 @@
+.invalid_feedback{
+    color:orangered !important;
+}
+
+.form-control {
+    height: 42px !important;
+}
+
+.thead{
+    background: #2bb591 !important;
+    color: #fff !important;
+}
+
+.multiselect-dropdown .dropdown-btn {
+    height: 32px !important;
+    /* line-height: 31px; */
+    border: 1px solid #ced4da !important;
+}
+
+// .multiselect-dropdown[_ngcontent-vnh-c53] .dropdown-btn[_ngcontent-vnh-c53] {
+//     border: 1px solid #ced4da;
+// }
+
+.form-control {
+    height: 42px !important;
+}
+
+.multiselect-item-checkbox input[type=checkbox]  + div {
+    font-size: 10px !important;
+  }
+
+
+
+  .bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: #2bb591 !important;
+}
+
+.ngx-slider .ngx-slider-pointer {
+    cursor: pointer;
+    background-color: #2bb591 !important;
+}
+
+.ngx-slider .ngx-slider-selection {
+    z-index: 2;
+    background: #2bb591 !important;
+    border-radius: 2px;
+}
+
+
+.multiselect-dropdown .dropdown-btn  .dropdown-multiselect__caret {
+    line-height: 5px !important;
+    display: block !important;
+    position: absolute;
+    box-sizing: border-box;
+    width: 32px !important;
+    height: 39px !important;
+    right: 1px;
+    top: 0;
+    padding: 11px 8px !important;
+    margin: 0;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: transform .2s;
+    font-size: 9px !important;
+}

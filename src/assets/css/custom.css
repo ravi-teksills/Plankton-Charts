@@ -1,0 +1,24 @@
+thead{
+  background: #2bb591 !important;
+  color: #fff !important;
+}
+
+.form-control {
+  height: 42px !important;
+}
+
+.invalid_feedback{
+  color:orangered !important;
+}
+
+.form-control {
+  height: 42px !important;
+}
+
+.form-select {
+  height: 42px !important;
+}
+
+option{
+  line-height: 50px !important;
+}
